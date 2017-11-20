@@ -1,4 +1,4 @@
-package com.timma.work.entity;
+package com.timma.work.entity.goods;
 
 import java.io.Serializable;
 import java.math.BigDecimal;
