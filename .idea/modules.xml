@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shoeBox.iml" filepath="$PROJECT_DIR$/shoeBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shoeBox-api/shoeBox-api.iml" filepath="$PROJECT_DIR$/shoeBox-api/shoeBox-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shoeBox-provider/shoeBox-provider.iml" filepath="$PROJECT_DIR$/shoeBox-provider/shoeBox-provider.iml" />
+    </modules>
+  </component>
+</project>

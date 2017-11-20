@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="shoeBox-provider:war">
+    <output-path>$PROJECT_DIR$/shoeBox-provider/target</output-path>
+    <root id="archive" name="shoeBox-provider.war">
+      <element id="artifact" artifact-name="shoeBox-provider:war exploded" />
+    </root>
+  </artifact>
+</component>
