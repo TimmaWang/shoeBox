@@ -1,4 +1,4 @@
-package com.timma.work.entity.user;
+package com.timma.work.model.user;
 
 import java.io.Serializable;
 
@@ -20,8 +20,6 @@ public class UserInfo implements Serializable{
     private int age;
 
     private boolean sex;
-
-    private int hobbyId;
 
     public String getUserId() {
         return userId;
@@ -63,11 +61,4 @@ public class UserInfo implements Serializable{
         this.sex = sex;
     }
 
-    public int getHobbyId() {
-        return hobbyId;
-    }
-
-    public void setHobbyId(int hobbyId) {
-        this.hobbyId = hobbyId;
-    }
 }

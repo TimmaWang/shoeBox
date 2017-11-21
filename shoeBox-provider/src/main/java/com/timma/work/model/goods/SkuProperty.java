@@ -1,4 +1,4 @@
-package com.timma.work.entity.goods;
+package com.timma.work.model.goods;
 
 import java.io.Serializable;
 import java.util.List;
